@@ -7,3 +7,5 @@ Files in this repository are used as a sample to the the [MetaCert project](http
 `./metadata` - JSON files used to upload via NFT.storage.
 
 This repository contains some sample images that are shown in the frontend app.
+
+These images are POAPS that are dropped to the ERC6551 and also displayed in the frontend.
